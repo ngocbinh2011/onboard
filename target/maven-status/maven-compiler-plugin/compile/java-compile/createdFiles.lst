@@ -1,0 +1,9 @@
+vn\momo\onboard\service\HttpServerVerticle_Factory.class
+vn\momo\onboard\DaggerMainComponent_MyComponent.class
+vn\momo\onboard\DaggerMainComponent_MyComponent$Builder.class
+vn\momo\onboard\DaggerMainComponent_MyComponent$1.class
+vn\momo\onboard\VertxServer_Factory.class
+vn\momo\onboard\VertxServerModule_ProvideVertxFactory.class
+vn\momo\onboard\repositories\UserInMemoryRepository_Factory.class
+vn\momo\onboard\handler\PingHandler_Factory.class
+vn\momo\onboard\handler\UserHandler_Factory.class
